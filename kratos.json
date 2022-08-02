@@ -1,13 +1,6 @@
 {
     "version": "0.10.1",
     "architecture": {
-        "32bit": {
-            "url": "https://github.com/ory/kratos/releases/download/v0.10.1/kratos_0.10.1-windows_32bit.zip",
-            "bin": [
-                "kratos.exe"
-            ],
-            "hash": "b865192a9bf1833c4a7f60b687361db5b29eb2d3fabd24d9e175acff11cf9986"
-        },
         "64bit": {
             "url": "https://github.com/ory/kratos/releases/download/v0.10.1/kratos_0.10.1-windows_sqlite_64bit.zip",
             "bin": [
